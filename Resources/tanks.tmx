@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tanks" tilewidth="32" tileheight="32">
+  <image source="tanks.png"/>
+  <tile id="2">
+   <properties>
+    <property name="Wall" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3a226rUAyE4Rze/52rSq3UIiCsgz2/WXMxlzuM/QFN2Lwej8fL+Zf3Juo+K2drYQ+Ogy3ssHJWsDiakTYztVe2A2F+UheKg2oPhA5ki4xdPH9COScoe1fs4rmTqg4ZFpE72bP4a6LeLdEici/vDybq/a5isT2GPXQeR8eJ8sia704WeyaZO6J7zHa42pdwrtqCY9HbxRbxu1F72KK/2x0sVP70a6T6NUHxGD2+ah9RFgSPng7KXURaUDzOOpHmj+4SYZLVOXteej9C78w5K3W9u0XVa0S986i5Kpqo955hUcVEvfdMC8XcxE40C8XspC40C/oeCMm2sAnPo+J7C9G58m5glIM9jj2iXc7es7LJsUePy+9n9VrY47PHmcuVz22xqPp+qMJjzyTy89X7UCfjHJ597d05Lff6keO0/G1S72QFj57vByum5TtRlseoSeXva1m/23p/t2z/7VWPqt+ls87bXo+efit59JhkWRzdZ6Pvj9VMKnjQjKL6ZlrM9lDaROyhdR9RPWZ6VzHpeQ52dc7RDr3Hruwxeo3M6H/2O3bkuCqPyGuEcg8Y3U0ljx4T9Y7JHqMWd/dQ+G93FemhnpecK+fubBP1zORcPXdneajnJWf0PtLioZ6VHv+NZcUWnPja4MQWnNiCFXtwYgtOjn6/qXutGFtwcvZsQ91tpfh5Nyd+psfJp3cL/HyP62EXpom673da/y+yJZS5yB6R+6eYfOqk8MjeO8GltU/mtaHef7YHqQvdInoPlB7VPCJ2QehgjzoWq3ioj2+POfPZY+4+1Me/m8mKFlQP9TxKD5qLega1A81F3V29f5KLurN65yQjQj/1fgk7mLkHQgdn3EPd+66xByu2YMUerNiCFVuwYgtWbMGKHVixAytfaaWsCUCcAAA=
+  </data>
+ </layer>
+</map>
